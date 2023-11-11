@@ -10,10 +10,9 @@ custom_js:
   - justcharts
 ---
 
+# Building Inventory Data Visualizations
 
-# First Plot
-
-The data for my visualizations comes from https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv. 
+## First Plot
 
 Heatmap of Square Footage per Agency
 
