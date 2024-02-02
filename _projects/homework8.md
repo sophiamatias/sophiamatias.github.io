@@ -1,8 +1,8 @@
 ---
-name: Homework 8
+name: IS 445 Homework 8
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
-description: Visualizations for Homework 8 
+description: Visualizations I created for Homework 8 for IS 445 Data Visualization
 custom_js:
   - vega.min
   - vega-lite.min
